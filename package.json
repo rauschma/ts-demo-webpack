@@ -11,7 +11,7 @@
     "@types/lodash": "^4.14.150",
     "copy-webpack-plugin": "^5.1.1",
     "http-server": "^0.12.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "ts-loader": "^7.0.0",
     "typescript": "^3.8.3",
     "webpack": "^4.42.1",
