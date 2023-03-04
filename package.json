@@ -10,7 +10,7 @@
   "dependencies": {
     "@types/lodash": "^4.14.150",
     "copy-webpack-plugin": "^5.1.1",
-    "http-server": "^0.12.1",
+    "http-server": "^0.12.3",
     "lodash": "^4.17.15",
     "ts-loader": "^7.0.0",
     "typescript": "^3.8.3",
